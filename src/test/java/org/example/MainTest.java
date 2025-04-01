@@ -41,7 +41,7 @@ public class MainTest {
 
             }
         }
-        System.out.println(positiveSum +" = "+negativeSum);
+        System.out.println("Sum of two number :"+positiveSum +" = "+negativeSum);
         double sum = positiveSum-negativeSum;
         System.out.println(sum);
 
